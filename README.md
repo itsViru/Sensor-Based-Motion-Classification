@@ -1,4 +1,4 @@
-# 🚶‍♂️ Sensor-Based Motion Classification: Gait Analysis & Classification via Inertial Sensor Processi
+# 🚶‍♂️ Sensor-Based Motion Classification: Gait Analysis & Classification via Inertial Sensor Processing
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange.svg)
